@@ -1,1 +1,1 @@
-hello! im a Y2 NTU Computer Science student :-) i like coding and memes.
+hello! im a Computer Science student @ NTU :-) i like coding and memes.
